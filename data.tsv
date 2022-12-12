@@ -1,0 +1,3 @@
+Id	Eje	Línea	Nombre	Impacto	Duración	Coste	Riesgo	Factibilidad	AlineamientoObj	AlineamientoPpios	Starred	Prioridad
+1	Eje1	Linea1	Project 1	Alto	Baja	Bajo	Bajo	Alta	Alto	Alto	X	
+2	Eje1	Linea1	Project 2	Medio	Media	Bajo	Medio	Alta	Alto	Alto		
